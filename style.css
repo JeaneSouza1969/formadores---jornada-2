@@ -3,6 +3,11 @@ body{
     color: whitesmoke;
     font-family: "Shadows Into Light", sans-serif;
 }
+header{
+    font-size: 15px;
+}
+
+
 h1{
     font-size: 60px;
 }
