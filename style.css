@@ -12,7 +12,7 @@ header{
     color: rgb(255, 255, 255)
 }
 h1{
-    font-size: 60px;
+    font-size: 40px;
 }
 p{
     font-size: 15px ;
@@ -21,4 +21,9 @@ section{
     background-color: rgb(156, 92, 140);
     padding-bottom: 80px;
     padding-top: 80px;
+    display: flex;
+    justify-content:center;
+}
+.chamada-texto{
+    margin-right: 5%;
 }
