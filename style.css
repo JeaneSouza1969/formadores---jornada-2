@@ -28,7 +28,13 @@ section{
     margin-right: 5%;
 }
 img{
-    height: 100px
+    opacity:0,5;
+    height: 100px;
+}
+
+.categoria-videos img:hover {
+    opacity: 1.0;
+    border: 3px solid green;
 }
 .categoria-videos {
   display: flex;
